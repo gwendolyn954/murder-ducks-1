@@ -9,7 +9,7 @@
 
 **Tech used:** HTML, CSS, JavaScript
 
-Testing your knowledge of the periodic table and chemical elements, with a splash of true crime.  Student click through each set of questions, gaining an interrogation point for each correct answer.  Once all questions are answered correctly, students get to engage in the experiment portion of the quiz to complete the game.  
+Testing your knowledge of the periodic table and chemical elements, with a splash of true crime.  Students click through the questions, gaining an interrogation point for each correct answer.  Once all questions are answered correctly, students get to engage in the experiment portion of the quiz to complete the game.  
 
 
 ## Challenges:
